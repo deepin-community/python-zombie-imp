@@ -1,5 +1,12 @@
-template-repository (1.0-1) unstable; urgency=medium
+python-zombie-imp (0.0.2-2) unstable; urgency=medium
 
-  * Initial release
+  * No change reupload for testing migration
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Thu, 02 Nov 2023 23:17:04 +0100
+
+python-zombie-imp (0.0.2-1) unstable; urgency=low
+
+  * Initial release. (Closes: #1055234)
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Thu, 02 Nov 2023 15:10:15 +0000
+
