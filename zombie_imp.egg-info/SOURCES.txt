@@ -4,6 +4,7 @@ README.md
 imp.py
 pyproject.toml
 tox.ini
+test_zombie_imp/badsyntax_pep3120.py
 test_zombie_imp/test_imp.py
 test_zombie_imp/test_pkgutil_reanimations.py
 test_zombie_imp/test_same_files.py

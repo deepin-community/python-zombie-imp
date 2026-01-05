@@ -3,8 +3,8 @@ Section: python
 Priority: optional
 Maintainer: Gianfranco Costamagna <locutusofborg@debian.org>
 Build-Depends: debhelper-compat (= 13), dh-python,
-               python3-all, pybuild-plugin-pyproject
-Standards-Version: 4.6.2
+               python3-all, pybuild-plugin-pyproject, python3-setuptools
+Standards-Version: 4.7.0
 
 Package: python3-zombie-imp
 Architecture: all
@@ -14,7 +14,7 @@ Suggests: ${python3:Suggests}
 Description: copy of the `imp` module that was removed in Python 3.12
  # zombie-imp
  .
- ~~A particularly mischevious act of necromancy. That is,~~
+ ~~A particularly mischievous act of necromancy. That is,~~
  A copy of the `imp` module that was removed in Python 3.12.
  .
  Don't use this, it'll probably trick and bite you.

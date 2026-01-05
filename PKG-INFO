@@ -1,6 +1,6 @@
-Metadata-Version: 2.1
+Metadata-Version: 2.2
 Name: zombie-imp
-Version: 0.0.2
+Version: 0.0.3
 Summary: A copy of the `imp` module that was removed in Python 3.12
 Maintainer-email: Petr Viktorin <encukou@gmail.com>
 Project-URL: Homepage, https://github.com/encukou/zombie-imp
@@ -14,7 +14,7 @@ License-File: LICENSE
 
 # zombie-imp
 
-~~A particularly mischevious act of necromancy. That is,~~
+~~A particularly mischievous act of necromancy. That is,~~
 A copy of the `imp` module that was removed in Python 3.12.
 
 Don't use this, it'll probably trick and bite you.
