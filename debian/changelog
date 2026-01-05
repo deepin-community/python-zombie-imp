@@ -1,3 +1,19 @@
+python-zombie-imp (0.0.3-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Update copyright years
+  * Update watch file (Closes: #1101042)
+  * Drop upstream patch
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Sun, 23 Mar 2025 18:59:17 +0100
+
+python-zombie-imp (0.0.2-3) unstable; urgency=medium
+
+  * Add python3-setuptools B-D (Closes: #1080780)
+  * Bump std-version to 4.7.0
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Fri, 14 Mar 2025 11:23:16 +0100
+
 python-zombie-imp (0.0.2-2) unstable; urgency=medium
 
   * No change reupload for testing migration
